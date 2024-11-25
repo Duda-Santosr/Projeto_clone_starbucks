@@ -5,5 +5,5 @@ Página clone do starbucks, utilizando responsividade e programação com:
 * Css para a estilização do site;
 * Java para ativar algumas funções.
 
-## Print site💻
+## Print site💻🧋
 ![image](https://github.com/user-attachments/assets/b0c7da5e-d46d-4ef5-a11f-81953c42e04b)
